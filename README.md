@@ -7,7 +7,7 @@
  - The ESP32 CAM Board and the System should be connected with the same WiFi connection.
 
 ## Circuit Daigram 
- - Circuit Diagram connecting all the components together.
+ ### Circuit Diagram connecting all the components together.
  
 ![circuit diagram 1](https://user-images.githubusercontent.com/72393587/183584455-bc5e5bba-ed29-497e-9d80-9245df2d6a60.jpg)
 
