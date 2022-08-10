@@ -1,5 +1,5 @@
 # Secret Knock and Face Detection Door Lock System
-Unlock door using a knock pattern and camera face detection system. This project is fully based on Arduino.The project is an example of a dual security door lock.
+Unlock door using a knock pattern and camera face detection system. This project is fully based on Arduino. The project is an example of a dual security door lock.
 
 ## ESP32 CAM Libraries
  - https://dl.espressif.com/dl/package_esp32_index.json
